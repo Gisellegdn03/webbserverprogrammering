@@ -25,6 +25,7 @@
     <form action="{% url 'add' %}" method="POST">
         {% csrf_token %}
         {{form}}
+        <p>Klart</p>
         <input type="submit" value="add">
     </form>
     {% endblock %}

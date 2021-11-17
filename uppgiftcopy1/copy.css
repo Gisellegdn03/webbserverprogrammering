@@ -1,0 +1,47 @@
+body {
+    background-color: #EE7C74;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 15px 80px;
+    font-size: 17px;
+    overflow: hidden;
+    background-color: white;
+    }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+  
+  li a:hover {
+  background-color: silver;
+    }
+
+h1 {
+
+  text-align: center
+    
+}
+
+img {
+  
+  margin-left: auto;
+  margin-right:auto;
+}
+
+  p {
+  text-align: center;
+  color: white;
+  
+  }
+  
